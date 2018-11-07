@@ -1,0 +1,5 @@
+<root>
+    <item name='io.restassured.mapper.ObjectMapper'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
